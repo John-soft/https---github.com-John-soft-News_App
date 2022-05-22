@@ -1,6 +1,6 @@
 # news_api
 
-A new Flutter project.
+A flutter project which use the newsapi to get latest and updated world news
 
 ## Getting Started
 
